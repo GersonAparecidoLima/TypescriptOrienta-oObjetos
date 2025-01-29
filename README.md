@@ -11,6 +11,6 @@ O projeto contará com o desenvolvimento de:
 
 # Certificado
 
-Você pode acessar o [certificado PDF aqui](certificado.pdf).
+Você pode acessar o [Certificado PDF aqui](certificado/certificado.pdf)
 
 
