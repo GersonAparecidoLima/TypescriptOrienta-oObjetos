@@ -1,5 +1,3 @@
-![Typescript: orientação a objetos](https://imgur.com/9399vxd.png)
-
 # Typescript: orientação a objetos
 
 O projeto contará com o desenvolvimento de:
@@ -14,4 +12,5 @@ O projeto contará com o desenvolvimento de:
 # Certificado
 
 Você pode acessar o [certificado PDF aqui](certificado.pdf).
+
 
