@@ -1,4 +1,4 @@
-# Typescript: orientação a objetos
+# TypescriptOrientaçãoObjetos
 
 O projeto contará com o desenvolvimento de:
 
