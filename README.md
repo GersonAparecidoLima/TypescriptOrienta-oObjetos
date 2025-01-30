@@ -11,7 +11,7 @@ O projeto contará com o desenvolvimento de:
 
 # Certificado
 
-Você pode acessar o [Certificado PDF aqui](certificado/certificado.pdf)
+Você pode acessar o [Certificado PDF aqui](certificado/Capturar.JPG)
 
 # 
 
