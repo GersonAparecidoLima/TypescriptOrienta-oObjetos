@@ -14,3 +14,6 @@ O projeto contará com o desenvolvimento de:
 Você pode acessar o [Certificado PDF aqui](certificado/certificado.pdf)
 
 
+![Typescript: orientação a objetos](https://imgur.com/9399vxd.png)
+
+
