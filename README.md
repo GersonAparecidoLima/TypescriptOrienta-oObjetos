@@ -10,11 +10,7 @@ O projeto contará com o desenvolvimento de:
 - Decorators de validação.
 
 # Certificado
+![Certificado](https://github.com/GersonAparecidoLima/TypescriptOrienta-oObjetos/raw/master/certificado/Capturar.JPG)
 
-Você pode acessar o [Certificado PDF aqui](certificado/Capturar.JPG)
-
-# 
-
-![Typescript: orientação a objetos](https://imgur.com/9399vxd.png)
 
 
